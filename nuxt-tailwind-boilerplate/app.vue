@@ -6,5 +6,11 @@
 </template>
 
 <style lang="postcss">
+.container {
+  @apply text-5xl;
 
+  h1 {
+    @apply text-red-500 text-2xl
+  }
+}
 </style>
